@@ -1,4 +1,4 @@
-# Hey 👋 I'm Kiril! It's nice to see you on my GitHub!
+# Hey 👋 I'm Kiril! It's nice to see you on my Github!
 
 <!--
 **kirkok0r/kirkok0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
